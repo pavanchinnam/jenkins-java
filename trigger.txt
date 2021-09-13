@@ -1,0 +1,1 @@
+trigger file is for git job in jenkins
